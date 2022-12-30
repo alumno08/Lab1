@@ -1,2 +1,2 @@
 # Lab1
-Contiene los ficheros del laboratorio 1 HPC-Bio
+Ficheros del laboratorio 1 HPC-Bio
