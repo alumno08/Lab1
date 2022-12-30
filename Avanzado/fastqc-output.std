@@ -1,0 +1,993 @@
+APARTADO 1
+
+Version de fastqc:
+FastQC v0.11.8
+
+APARTADO 2
+
+Tiempo que tarda fastqc en abrir archivos Sample1.fastq Sample2.fastq Sample3.fastq Sample4.fastq secuencialmente:
+
+Sample1.fastq Sample2.fastq Sample3.fastq Sample4.fastq
+
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+
+
+real	0m5,126s
+user	0m5,100s
+sys	0m0,109s
+
+APARTADO 3
+
+Tiempo que tarda fastqc en ejecutar 10 veces cada fichero *.fastq:
+
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+Started analysis of Sample1.fastq
+Approx 5% complete for Sample1.fastq
+Approx 10% complete for Sample1.fastq
+Approx 15% complete for Sample1.fastq
+Approx 20% complete for Sample1.fastq
+Approx 25% complete for Sample1.fastq
+Approx 30% complete for Sample1.fastq
+Approx 35% complete for Sample1.fastq
+Approx 40% complete for Sample1.fastq
+Approx 45% complete for Sample1.fastq
+Approx 50% complete for Sample1.fastq
+Approx 55% complete for Sample1.fastq
+Approx 60% complete for Sample1.fastq
+Approx 65% complete for Sample1.fastq
+Approx 70% complete for Sample1.fastq
+Approx 75% complete for Sample1.fastq
+Approx 80% complete for Sample1.fastq
+Approx 85% complete for Sample1.fastq
+Approx 90% complete for Sample1.fastq
+Approx 95% complete for Sample1.fastq
+Approx 100% complete for Sample1.fastq
+Analysis complete for Sample1.fastq
+Started analysis of Sample2.fastq
+Approx 5% complete for Sample2.fastq
+Approx 10% complete for Sample2.fastq
+Approx 15% complete for Sample2.fastq
+Approx 20% complete for Sample2.fastq
+Approx 25% complete for Sample2.fastq
+Approx 30% complete for Sample2.fastq
+Approx 35% complete for Sample2.fastq
+Approx 40% complete for Sample2.fastq
+Approx 45% complete for Sample2.fastq
+Approx 50% complete for Sample2.fastq
+Approx 55% complete for Sample2.fastq
+Approx 60% complete for Sample2.fastq
+Approx 65% complete for Sample2.fastq
+Approx 70% complete for Sample2.fastq
+Approx 75% complete for Sample2.fastq
+Approx 80% complete for Sample2.fastq
+Approx 85% complete for Sample2.fastq
+Approx 90% complete for Sample2.fastq
+Approx 95% complete for Sample2.fastq
+Approx 100% complete for Sample2.fastq
+Analysis complete for Sample2.fastq
+Started analysis of Sample3.fastq
+Approx 5% complete for Sample3.fastq
+Approx 10% complete for Sample3.fastq
+Approx 15% complete for Sample3.fastq
+Approx 20% complete for Sample3.fastq
+Approx 25% complete for Sample3.fastq
+Approx 30% complete for Sample3.fastq
+Approx 35% complete for Sample3.fastq
+Approx 40% complete for Sample3.fastq
+Approx 45% complete for Sample3.fastq
+Approx 50% complete for Sample3.fastq
+Approx 55% complete for Sample3.fastq
+Approx 60% complete for Sample3.fastq
+Approx 65% complete for Sample3.fastq
+Approx 70% complete for Sample3.fastq
+Approx 75% complete for Sample3.fastq
+Approx 80% complete for Sample3.fastq
+Approx 85% complete for Sample3.fastq
+Approx 90% complete for Sample3.fastq
+Approx 95% complete for Sample3.fastq
+Approx 100% complete for Sample3.fastq
+Analysis complete for Sample3.fastq
+Started analysis of Sample4.fastq
+Approx 5% complete for Sample4.fastq
+Approx 10% complete for Sample4.fastq
+Approx 15% complete for Sample4.fastq
+Approx 20% complete for Sample4.fastq
+Approx 25% complete for Sample4.fastq
+Approx 30% complete for Sample4.fastq
+Approx 35% complete for Sample4.fastq
+Approx 40% complete for Sample4.fastq
+Approx 45% complete for Sample4.fastq
+Approx 50% complete for Sample4.fastq
+Approx 55% complete for Sample4.fastq
+Approx 60% complete for Sample4.fastq
+Approx 65% complete for Sample4.fastq
+Approx 70% complete for Sample4.fastq
+Approx 75% complete for Sample4.fastq
+Approx 80% complete for Sample4.fastq
+Approx 85% complete for Sample4.fastq
+Approx 90% complete for Sample4.fastq
+Approx 95% complete for Sample4.fastq
+Approx 100% complete for Sample4.fastq
+Analysis complete for Sample4.fastq
+
+real	0m51,293s
+user	0m52,920s
+sys	0m0,981s
